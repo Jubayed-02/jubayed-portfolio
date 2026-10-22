@@ -5,3 +5,8 @@ body {
 .profession {
   color: rgba(255, 254, 254, 0.52);
 }
+
+.card-body,
+.card-header {
+  background-color: #29233d;
+}
