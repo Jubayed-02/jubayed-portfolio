@@ -10,10 +10,7 @@ body {
 .card-header {
   background-color: #29233d;
 }
-.card-text,
-.card-title {
-  color: white;
-}
+
 .custom-image {
   background-color: #605b6ec1;
   height: 200px;
