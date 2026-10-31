@@ -39,3 +39,11 @@ body {
   --bs-tooltip-color: #ffffff;
   --bs-tooltip-opacity: 1;
 }
+.contact-icon {
+  color: white;
+  font-size: 40px;
+  transition: 2s;
+}
+.contact-icon:hover {
+  color: rgb(0, 179, 255);
+}
