@@ -34,3 +34,8 @@ body {
   justify-content: center;
   padding-top: 15px;
 }
+.custom-tooltip {
+  --bs-tooltip-bg: #0d6efd;
+  --bs-tooltip-color: #ffffff;
+  --bs-tooltip-opacity: 1;
+}
