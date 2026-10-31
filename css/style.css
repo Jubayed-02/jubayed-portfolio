@@ -2,6 +2,9 @@ body {
   background-color: #18122b;
   color: white;
 }
+#abbr {
+  cursor: pointer;
+}
 .profession {
   color: rgba(255, 254, 254, 0.52);
 }
